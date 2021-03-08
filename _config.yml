@@ -21,7 +21,7 @@
 title: William Anderson - Software Developer
 email: willjatlas@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome. I'm currently developing this website! 
+  An enthusiastic and creative software developer with a passion for learning new technologies. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://willjatlas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
