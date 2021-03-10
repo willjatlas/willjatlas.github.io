@@ -4,6 +4,14 @@ layout: default
 
 <div class="home">
 
-    {%- include profile-image.html -%}
-
+    <div id="home-top">
+        {%- include welcome-message.html -%}
+        {%- include profile-image.html -%}
+    </div>
+    <div id="home-content">
+        {%- include side-bar.html-%}
+        {%- include home-page-text.html -%}
+    </div>
+    
+    
 </div> 
